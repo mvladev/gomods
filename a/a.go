@@ -1,3 +1,3 @@
 package a
 
-const Foo = 1
+const Foo = 3
